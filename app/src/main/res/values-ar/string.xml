@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallpapers for Liverpool FC‏</string>
+
+    <string name="tab_text_2">Tab 2</string>
+
+
+    <string-array name="link">
+
+        <item> https://i.ibb.co/wpfSHL6/IMG-20200628-144005-607.jpg</item>
+        <item>  https://i.ibb.co/980wMSB/IMG-20200628-144008-267.jpg</item>
+        <item>https://i.ibb.co/gd9S8C5/IMG-20200628-144010-325.jpg</item>
+        <item>  https://i.ibb.co/qjcr0tX/IMG-20200628-144012-706.jpg</item>
+        <item>  https://i.ibb.co/gtfRhzK/IMG-20200628-144014-482.jpg</item>
+        <item>  https://i.ibb.co/VYqrh7y/IMG-20200628-144016-993.jpg</item>
+        <item>  https://i.ibb.co/kH3yjMR/IMG-20200628-144018-659.jpg</item>
+        <item>  https://i.ibb.co/GCKtj0p/IMG-20200628-144020-985.jpg</item>
+        <item>  https://i.ibb.co/P5rpB9Y/IMG-20200628-144024-005.jpg</item>
+        <item>  https://i.ibb.co/7vq436X/IMG-20200628-144025-224.jpg</item>
+        <item>  https://i.ibb.co/G0fGw69/IMG-20200628-144026-816.jpg</item>
+        <item>  https://i.ibb.co/ftcm46H/IMG-20200628-144029-216.jpg</item>
+        <item>  https://i.ibb.co/17dzd8C/IMG-20200628-144031-863.jpg</item>
+        <item>https://i.ibb.co/1v8NmL0/IMG-20200628-144033-205.jpg</item>
+        <item>"https://i.ibb.co/3pbNgkS/81.jpg"</item>
+        <item> "https://i.ibb.co/4KJMfSK/82.jpg",</item>
+        <item> "https://i.ibb.co/VgjxQ3R/80.jpg",</item>
+        <item>  "https://i.ibb.co/Qdb0TLx/79.jpg",</item>
+        <item>  "https://i.ibb.co/3rKxWVL/77.jpg",</item>
+        <item> "https://i.ibb.co/PCTmf1k/76.jpg",</item>
+        <item>  "https://i.ibb.co/ZhYzm5D/76.jpg",</item>
+        <item>  "https://i.ibb.co/mtWHycX/75.jpg",</item>
+        <item>   "https://i.ibb.co/Ry1PXm0/74.jpg",</item>
+        <item>   "https://i.ibb.co/WK8SKRb/73.jpg",</item>
+        <item>  "https://i.ibb.co/3drxrZk/72.jpg",</item>
+        <item>   "https://i.ibb.co/gynF7pN/71.jpg",</item>
+        <item>  "https://i.ibb.co/rMWRdQk/70.jpg",</item>
+        <item>  "https://i.ibb.co/BKCbbNb/69.jpg",</item>
+        <item>  "https://i.ibb.co/DKMgFKk/68.jpg",</item>
+        <item>  "https://i.ibb.co/QD5vx7b/67.jpg",</item>
+        <item>  "https://i.ibb.co/Lh6p34v/65.jpg",</item>
+        <item>  "https://i.ibb.co/gb09ZZJ/66.jpg",</item>
+        <item>"https://i.ibb.co/WBM9Mtp/64.jpg",</item>
+        <item>  "https://i.ibb.co/W3HNn3L/63.jpg",</item>
+        <item>  "https://i.ibb.co/yNrcC6J/62.jpg",</item>
+        <item>  "https://i.ibb.co/q748mNd/61.jpg",</item>
+        <item>  "https://i.ibb.co/fpGqSjz/60.jpg",</item>
+        <item>  "https://i.ibb.co/3Rr2p4F/59.jpg",</item>
+        <item>  "https://i.ibb.co/hMSJDWL/58.jpg",</item>
+        <item>  "https://i.ibb.co/2qDXKf5/55.jpg",</item>
+        <item>  "https://i.ibb.co/310yVgt/57.jpg",</item>
+        <item>  "https://i.ibb.co/5YzYNny/56.jpg",</item>
+        <item>  "https://i.ibb.co/sPy2k3Z/54.jpg",</item>
+        <item>  "https://i.ibb.co/3FW3x5k/53.jpg",</item>
+        <item>  "https://i.ibb.co/K0NHjhD/52.jpg",</item>
+        <item>  "https://i.ibb.co/zZ58Dvt/51.png",</item>
+        <item>  "https://i.ibb.co/mz6cMX2/50.jpg",</item>
+        <item>  "https://i.ibb.co/mcBjHjp/49.jpg",</item>
+        <item>  "https://i.ibb.co/vwWmDFX/48.jpg",</item>
+        <item>  "https://i.ibb.co/rbsvShs/47.jpg",</item>
+        <item>  "https://i.ibb.co/bQjbsFM/46.jpg",</item>
+        <item>  "https://i.ibb.co/qkHvJm5/45.jpg",</item>
+        <item>  "https://i.ibb.co/FWXXN9c/44.jpg",</item>
+        <item>  "https://i.ibb.co/4ZDZp16/43.jpg",</item>
+        <item>  "https://i.ibb.co/gmXC2CH/42.jpg",</item>
+        <item>  "https://i.ibb.co/z5kZc0Y/41.jpg",</item>
+        <item>  "https://i.ibb.co/Cs3z1mZ/40.jpg",</item>
+        <item>  "https://i.ibb.co/YWcxPTR/39.jpg",</item>
+        <item>  "https://i.ibb.co/5nb7DyW/38.jpg",</item>
+        <item>  "https://i.ibb.co/bWLfdcM/36.jpg",</item>
+        <item>  "https://i.ibb.co/yhR6B57/37.jpg",</item>
+        <item>  "https://i.ibb.co/phx8JFz/35.jpg",</item>
+        <item>  "https://i.ibb.co/FbRT0fs/34.jpg",</item>
+        <item>  "https://i.ibb.co/gT0fL2q/33.jpg",</item>
+        <item>  "https://i.ibb.co/NywbG8P/32.jpg",</item>
+        <item>  "https://i.ibb.co/SRGGQYF/31.jpg",</item>
+        <item>  "https://i.ibb.co/6Rd17M5/30.jpg",</item>
+        <item>  "https://i.ibb.co/dj8JHkX/29.jpg",</item>
+        <item>  "https://i.ibb.co/hL8mkPd/27.jpg",</item>
+        <item>  "https://i.ibb.co/z7w5qq1/26.jpg",</item>
+        <item>  "https://i.ibb.co/GJYnDTd/24.png",</item>
+        <item>  "https://i.ibb.co/zVWVDY2/25.jpg",</item>
+        <item>  "https://i.ibb.co/Zh8VGyX/23.jpg",</item>
+        <item>  "https://i.ibb.co/JmFGz5W/22.jpg",</item>
+        <item>  "https://i.ibb.co/4mqrnWH/21.jpg",</item>
+        <item>  "https://i.ibb.co/MnqPt1B/20.jpg",</item>
+        <item>  "https://i.ibb.co/MC1gNmw/19.jpg",</item>
+        <item>  "https://i.ibb.co/QbTthQB/18.jpg",</item>
+        <item>  "https://i.ibb.co/tJwwH20/17.jpg",</item>
+        <item>  "https://i.ibb.co/7QWygfM/15.jpg",</item>
+        <item>  "https://i.ibb.co/TWWf5Jv/16.jpg",</item>
+        <item>  "https://i.ibb.co/X5vX29P/14.jpg",</item>
+        <item>  "https://i.ibb.co/wzH8RJ4/12.jpg",</item>
+        <item>  "https://i.ibb.co/fdcmCTQ/13.jpg",</item>
+        <item>  "https://i.ibb.co/WHq71n6/11.png",</item>
+        <item>  "https://i.ibb.co/bJb8BWz/9.jpg",</item>
+        <item>  "https://i.ibb.co/QY037c9/10.jpg",</item>
+        <item>  "https://i.ibb.co/ZKzXNZP/8.jpg",</item>
+        <item>  "https://i.ibb.co/611sBsV/7.jpg",</item>
+        <item>  "https://i.ibb.co/yPM0XR1/6.jpg",</item>
+        <item>  "https://i.ibb.co/Hq8h2Nf/5.jpg",</item>
+        <item>  "https://i.ibb.co/PYHTp8d/4.jpg",</item>
+        <item> "https://i.ibb.co/x61FDP8/3.jpg",</item>
+        <item>"https://i.ibb.co/c1nxz3h/2.jpg",</item>
+        <item>  "https://i.ibb.co/xshQZFd/1.jpg",</item>
+        <item>"https://i.ibb.co/SRGGQYF/31.jpg",</item>
+
+    </string-array>
+
+
+    <string name="title_activity_show_room">ShowRoom</string>
+    <string name="title_activity_favorit">Favorit</string>
+    <string name="favorit">المفضله</string>
+    <string name="face">اشترك فى صفحتنا</string>
+    <string name="share">مشاركه التطبيق</string>
+    <string name="our_apps">تطبيقاتنا الاخرى</string>
+    <string name="menu">القائمه</string>
+    <string name="save">حفظ</string>
+    <string name="share2">مشاركه</string>
+    <string name="set">ضبط الصوره كـ</string>
+    <string name="add_favorit">اضـافه الى المفضله</string>
+    <string name="nofav2">لم يتم اضافه اى خلفيات الى المفضله</string>
+    <string name="fav_delet">تم حذف الخلفيه من المفضله</string>
+    <string name="fav_add">تم اضافه الخلفيه الى المفضاله</string>
+    <string name="done">تـــم حفظ الخلفيه</string>
+    <string name="ouut">تسـجيل الخروج</string>
+    <string name="maseg">اذا اعجبك التطبيقك يرجى تقييم التطبيق فى المتجر</string>
+    <string name="rate">تقييم التطبيق</string>
+    <string name="wall">الخلفيات</string>
+</resources>

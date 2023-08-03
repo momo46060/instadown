@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".viewimg">
+
+        <ImageView
+            android:scaleType="fitXY"
+            android:background="@drawable/nofav"
+            android:id="@+id/img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <com.github.clans.fab.FloatingActionMenu
+            android:layout_above="@+id/adView"
+            app:menu_fab_label="@string/menu"
+            android:id="@+id/fabm"
+            app:menu_colorNormal="#F70303"
+            app:menu_colorPressed="#770202"
+            app:menu_colorRipple="#F1EFEF"
+            app:menu_showShadow="true"
+            app:menu_shadowRadius="4dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <com.github.clans.fab.FloatingActionButton
+                app:fab_label="@string/save"
+                android:src="@drawable/sa"
+                app:fab_colorNormal="#D10404"
+                app:fab_colorPressed="#6B0303"
+                app:fab_colorRipple="#F1EFEF"
+                app:fab_showShadow="true"
+                app:fab_shadowRadius="4dp"
+                android:id="@+id/save"
+                app:fab_size="mini"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <com.github.clans.fab.FloatingActionButton
+                app:fab_label="@string/share2"
+                android:src="@drawable/sha"
+                app:fab_size="mini"
+                app:fab_colorNormal="#D10404"
+                app:fab_colorPressed="#6B0303"
+                app:fab_colorRipple="#F1EFEF"
+                app:fab_showShadow="true"
+                app:fab_shadowRadius="4dp"
+                android:id="@+id/sahar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <com.github.clans.fab.FloatingActionButton
+                app:fab_label="@string/set"
+                android:src="@drawable/wall"
+                app:fab_size="mini"
+                app:fab_colorNormal="#D10404"
+                app:fab_colorPressed="#6B0303"
+                app:fab_colorRipple="#F1EFEF"
+                app:fab_showShadow="true"
+                app:fab_shadowRadius="4dp"
+                android:id="@+id/set"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <com.github.clans.fab.FloatingActionButton
+                app:fab_label="@string/add_favorit"
+                app:fab_size="mini"
+                app:fab_colorNormal="#D10404"
+                app:fab_colorPressed="#6B0303"
+                app:fab_colorRipple="#F1EFEF"
+                app:fab_showShadow="true"
+                app:fab_shadowRadius="4dp"
+                android:id="@+id/fabfav"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </com.github.clans.fab.FloatingActionMenu>
+
+        <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="ca-app-pub-8270803172827285/1697184696" />
+
+    </RelativeLayout>
+</layout>
