@@ -74,7 +74,7 @@ public class viewimg extends AppCompatActivity implements View.OnClickListener {
         AdRequest adRequest = new AdRequest.Builder()
                 .addTestDevice("990670AC8116BDAD15834C5C681424E9")
                 .build();
-        mAdView.loadAd(adRequest);
+//        mAdView.loadAd(adRequest);
         mInterstitialAd = new InterstitialAd(this);
         mInterstitialAd.setAdUnitId("ca-app-pub-8270803172827285/4578977831");
         mInterstitialAd.loadAd(new AdRequest.Builder()
